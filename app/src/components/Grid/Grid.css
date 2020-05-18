@@ -1,0 +1,66 @@
+.React--Grid-Container {
+  display: block;
+
+}
+
+.React--Grid.Row {
+  display: block;
+}
+
+.React--Grid-Col {
+  position: relative;
+  float: left;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: 10px 0;
+  flex: 1;
+}
+
+.React--Grid-Col-1 {
+  width: 8.33333333%;
+}
+
+.React--Grid-Col-2 {
+  width: 16.66666667%;
+}
+
+.React--Grid-Col-3 {
+  width: 25%;
+}
+
+.React--Grid-Col-4 {
+  width: 33.33333333%;
+}
+
+.React--Grid-Col-5 {
+  width: 41.66666667%;
+}
+
+.React--Grid-Col-6 {
+  width: 50%;
+
+}
+
+.React--Grid-Col-7 {
+  width: 58.33333333%;
+}
+
+.React--Grid-Col-8 {
+  width: 66.66666667%;
+}
+
+.React--Grid-Col-9 {
+  width: 75%;
+}
+
+.React--Grid-Col-10 {
+  width: 83.33333333%;
+}
+
+.React--Grid-Col-11 {
+  width: 91.66666667%;
+}
+
+.React--Grid-Col-12 {
+  width: 100%;
+}
